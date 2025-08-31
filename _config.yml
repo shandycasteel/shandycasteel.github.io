@@ -27,7 +27,7 @@ twitter_username: shandyland
 github_username:  shandycasteel
 
 # Build settings
-theme: jekyll-theme-nix
+remote_theme: michaelnordmeyer/jekyll-theme-nix
 plugins:
   - jekyll-feed
 
