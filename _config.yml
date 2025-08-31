@@ -27,7 +27,7 @@ twitter_username: shandyland
 github_username:  shandycasteel
 
 # Build settings
-theme: moving
+theme: jekyll-theme-nix
 plugins:
   - jekyll-feed
 
